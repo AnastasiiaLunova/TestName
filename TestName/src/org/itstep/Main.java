@@ -6,7 +6,9 @@ public class Main {
 		int a = 2;
 		int b = 3;
 		int c = a + b;
-		System.out.println(c);
+		int k = 5;
+		int u = c - k;
+		System.out.println(u);
 
 	}
 
