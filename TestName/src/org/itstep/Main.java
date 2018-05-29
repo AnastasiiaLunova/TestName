@@ -10,6 +10,7 @@ public class Main {
 		int u = c - k;
 		System.out.println(u);
 
+		
 	}
 	
 
